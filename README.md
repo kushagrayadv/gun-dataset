@@ -5,3 +5,7 @@ The rate of violence in the world has increased tremendously in the last 15 year
 
 
 ### Link for [Dataset](https://github.com/kushagrayadv/gun-dataset/tree/master/dataset)
+
+## Citation
+If you use our dataset in your research work, cite our paper as well.
+@INPROCEEDINGS{9342202,  author={K. {Yadav} and R. {Punia} and N. {Raghava}},  booktitle={2020 IEEE 17th India Council International Conference (INDICON)},   title={Towards the Law Enforcement of Firearms},   year={2020},  volume={},  number={},  pages={1-6},  doi={10.1109/INDICON49873.2020.9342202}}
